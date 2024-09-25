@@ -1,4 +1,4 @@
-# Project Title
+# Project Title: POTATO Take-Home Task
 
 ## Description
 
@@ -27,12 +27,12 @@ Follow these steps to set up the environment and run the code:
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
-2. ** Unzip the File **
+2. **Unzip the File**
 
 
-3. ** Install requirements **
+3. **Install requirements**
 
    Use pip install -r requirements.txt to install requirements in your environment
 
-4. ** Run Jupyter Notebook **
+4. **Run Jupyter Notebook**
 
